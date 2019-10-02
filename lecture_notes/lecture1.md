@@ -36,6 +36,9 @@ k. [](#)  <br>
 
 #### Other Cool Links
 
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These are broad rules of thumb, not specific guidelines.  
+
+[10 Visual Examples of Usability Heuristics](https://uxdesign.cc/user-experience-is-one-of-the-hottest-topics-in-day-today-designers-life-fb314978e1ff)  
 
 <br>
 
@@ -96,6 +99,106 @@ The product vision drives the entire user experience. The product vision dictate
 UX debt is especially common whilst working within the agile methodology. In the agile methodology, teams are pressured to constantly ship new features and functionality. 
 
 If you’re constantly focusing on new features and functionality as a UX designer, you run the risk of losing sight of the experience as a whole.
+
+<br>
+<br>
+
+## Usability Heuristics
+
+The usability heuristics are rules of thumb for design. They're explained below but you can also see [visual examples](https://uxdesign.cc/user-experience-is-one-of-the-hottest-topics-in-day-today-designers-life-fb314978e1ff) in this article.
+
+<br>
+
+### 1: Visibility of system status
+
+The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. 
+
+The user should never wonder _How much is left?_ or wondering where in the process they are. Feedback that tells the user what to expect and _when_ to expect it matters.
+
+Common visibility is a circle being filled in or a bar showing the progress.
+
+Read [full article](https://www.nngroup.com/articles/visibility-system-status/) on visibility of system status and watch [3 min. video](https://www.nngroup.com/videos/usability-heuristic-system-status/) on the visibility heuristic.
+
+<br>
+
+### 2: Match between system and the real world
+
+
+The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
+
+If you ask for a user's birthday, how can you ask for it in the same way they usually refer to it? Often, the input is something less natural, like `dd/mm/yyyy` instead of `Month Day, Year`.
+
+Read [full article](https://www.nngroup.com/articles/match-system-real-world/) on the match between the system and the real world and watch [3 min. video](https://www.nngroup.com/videos/match-system-real-world/) on the real-world heuristic.
+
+<br>
+
+### 3: User control and freedom
+
+Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
+
+A user will make a mistake -- hitting delete or archive by accident. There should be an "escape" or "undo" option clearly marked to easily leave that unwanted process.
+
+Watch [2-min. video](https://www.nngroup.com/videos/usability-heuristic-user-control-freedom/) on the user control heuristic.
+
+<br>
+
+### 4: Consistency and standards
+
+Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow [platform conventions](https://www.nngroup.com/articles/do-interface-standards-stifle-design-creativity/).
+
+Create a style guide or UI library for consistent standards.
+
+Watch [3-min. video](https://www.nngroup.com/videos/usability-heuristic-consistency-standards/) on consistency & standards.
+
+<br>
+
+### 5: Error prevention
+
+Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
+
+Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
+
+Read [full article](https://www.nngroup.com/articles/slips/) on preventing user errors and watch [3 min. video](https://www.nngroup.com/videos/usability-heuristic-error-prevention/) on error prevention.
+
+<br>
+
+### 6: Recognition rather than recall
+
+Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+
+Read [full article](https://www.nngroup.com/articles/recognition-and-recall/) on recognition vs. recall in UX and watch [3 min. video](https://www.nngroup.com/videos/recognition-vs-recall/) on recognition vs. recall.
+
+<br>
+
+### 7: Flexibility and efficiency of use
+
+Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
+
+Watch [3 min. video](https://www.nngroup.com/videos/flexibility-efficiency-use/) on Flexibility and Efficiency of Use.
+
+<br>
+
+### 8: Aesthetic and minimalist design
+
+Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
+
+Watch [2 min. video](https://www.nngroup.com/videos/aesthetic-and-minimalist-design/) on Aesthetic and Minimalist Design.
+
+<br>
+
+### 9: Help users recognize, diagnose, and recover from errors
+
+[Error messages](https://www.nngroup.com/articles/error-message-guidelines/) should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
+
+Watch [2 min. video](https://www.nngroup.com/videos/usability-heuristic-recognize-errors/) on helping users overcome errors.
+
+<br>
+
+### 10: Help and documentation
+
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+
+Watch [3 min video](https://www.nngroup.com/videos/help-and-documentation/) on help and documentation.
 
 <br>
 <br>
