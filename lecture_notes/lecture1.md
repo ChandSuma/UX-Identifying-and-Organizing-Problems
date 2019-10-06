@@ -3,16 +3,10 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>   
-c. [](#)  <br>   
-d. [](#)  <br>   
-e. [](#)  <br>   
-f. [](#)  <br>   
-g. [](#)  <br>   
-h. [](#)  <br>   
-i. [](#)  <br>   
-j. [](#)  <br>   
-k. [](#)  <br>   
+b. [UX Debt](#UX-Debt)  <br>   
+c. [Usability Heuristics](#Usability-Heuristics)  <br>   
+d. [Identifying Opportunities](#Identifying-Opportunities)  <br>   
+e. [Tracking and Prioritizing Issues](#Tracking-and-Prioritizing-Issues)  <br>   
 
 <br>
 
@@ -30,7 +24,7 @@ k. [](#)  <br>
 
 [Identifying Problems UX8 - Glenn Ference](https://youtu.be/YBKnLd6y4dQ)  
 
-[Identifying Problems UXPT3 - Ann-Marie]()     
+[Identifying Problems UXPT3 - Ann-Marie](https://youtu.be/SiAD-xuNstw)     
 
 [Identifying Problems Assignment](https://docs.google.com/document/d/1bDd2I69dvy6iV9f9pgNr-L4J80OKAFY1pEzaWttAp7Q/edit)  
 
@@ -39,6 +33,8 @@ k. [](#)  <br>
 [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These are broad rules of thumb, not specific guidelines.  
 
 [10 Visual Examples of Usability Heuristics](https://uxdesign.cc/user-experience-is-one-of-the-hottest-topics-in-day-today-designers-life-fb314978e1ff)  
+
+[UX Check](http://www.uxcheck.co), a Chrome Extension that helps you identify usability issues through a heuristic evaluation.  
 
 <br>
 
@@ -164,7 +160,13 @@ Read [full article](https://www.nngroup.com/articles/slips/) on preventing user 
 
 ### 6: Recognition rather than recall
 
-Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+Minimize the user's memory load by making objects, actions, and options visible. 
+
+The user should not have to remember information from one part of the dialogue to another. 
+
+Instructions for use of the system should be visible or easily retrievable whenever appropriate.
+
+A good example would be how Amazon keeps your recently viewed or searched items, so you can pickup where you might have left off, or Google search giving you suggestions based on what you start typing.
 
 Read [full article](https://www.nngroup.com/articles/recognition-and-recall/) on recognition vs. recall in UX and watch [3 min. video](https://www.nngroup.com/videos/recognition-vs-recall/) on recognition vs. recall.
 
@@ -174,13 +176,19 @@ Read [full article](https://www.nngroup.com/articles/recognition-and-recall/) on
 
 Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
+It's important that your product or service is friendly to both novice and experienced users, showing how to use a hotkey or shortcut, but still having a more user friendly way of accessing the feature.
+
+In Gmail, the settings are set to their recommended features, but if you need to do more or change them, you can click Advanced to change those. This avoids overwhelming new users while accomodating advanced users.
+
 Watch [3 min. video](https://www.nngroup.com/videos/flexibility-efficiency-use/) on Flexibility and Efficiency of Use.
 
 <br>
 
 ### 8: Aesthetic and minimalist design
 
-Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
+Dialogues should not contain information which is irrelevant or rarely needed. 
+
+Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
 
 Watch [2 min. video](https://www.nngroup.com/videos/aesthetic-and-minimalist-design/) on Aesthetic and Minimalist Design.
 
@@ -190,15 +198,25 @@ Watch [2 min. video](https://www.nngroup.com/videos/aesthetic-and-minimalist-des
 
 [Error messages](https://www.nngroup.com/articles/error-message-guidelines/) should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
 
+There are times the user will need to contact customer support -- it's important to make that simple and straightforward from where they're at. Ideally, if any information can be pulled to help them auto-fill the error contact form, that makes the process even better.
+
 Watch [2 min. video](https://www.nngroup.com/videos/usability-heuristic-recognize-errors/) on helping users overcome errors.
 
 <br>
 
 ### 10: Help and documentation
 
-Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
+
+Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
+
+Search is a great feature to help the user. How do you think the user will get stuck and where will they look for the information? Can you break down the help information available into sections?
 
 Watch [3 min video](https://www.nngroup.com/videos/help-and-documentation/) on help and documentation.
+
+<br>
+
+Use [UX Check](http://www.uxcheck.co), a Google Chrome extension, to track the heuristics you spot on a page and download your notes into a document at the end. This can help organize and speed up your research.
 
 <br>
 <br>
@@ -209,11 +227,39 @@ Arguably, the best way to identify problems is through user feedback. There are 
 
 User testing should happen on a regular cadence and should consist of all key user flows and tasks that users frequently do on your app or website. Conducting regular user testing will help you build a picture of the overall health of your user experience.
 
+<br>
+
 Remember, user feedback can be gathered in a variety of ways. This includes usability testing, surveys, user interviews, contextual inquiry, and numerous others. 
 
 The most important aspect of gathering user feedback is ensuring that you gather it on a regular cadence. You can never have ‘too much’ user feedback. 
 
 Gathering user feedback at multiple times throughout the design process will ensure that the product vision and design decisions being made throughout are not based on opinion, but fact.
+
+<br>
+
+Here is an example of how to evaluate the problems on an app or page:
+
+![Identifying Problems](./img/IdentifyingProblems.png "Identifying Problems")
+
+The usability rating is based on this breakdown:
+
+![Usability Rating](./img/UsabilityRating.png "Usability Rating")
+
+Can the user still use the product with this flaw?
+
+If so, it's not critical, but if it would impact user retention, their overall trust of the brand, etc. then it's likely high priority.
+
+This could be translated into a more aesthetically pleasing format such as a powerpoint, that the client or team can use to move forward with your recommendations.
+
+<br>
+
+• Take the next 35 minutes and explore https://www.atomtickets.com.
+
+• Identify at least 8 usability issues on the site using Jakob Neilson’s Usability Heuristics. Identify more usability issues if you have more time.
+
+• Once you’ve identified 10 issues, apply a severity rating to each problem, and prioritize the problems.
+
+• Organize your findings in a presentable format (organized document, slideshow, etc.)
 
 <br>
 
@@ -264,7 +310,6 @@ The NNGroup suggests the following factors to reveal the biggest pain points in 
 > Frequency of occurrence (how often does it happen?)  
 > Who reported the issue? (user, team, stakeholder)  
 > Level of UX and development effort needed to fix the issue (low, medium, or high)  
-
 After each item is scored, you may use a prioritization matrix in the form of a scatter plot to see where the issues fall on the dimensions of user value and effort to fix.
 
 <br>
