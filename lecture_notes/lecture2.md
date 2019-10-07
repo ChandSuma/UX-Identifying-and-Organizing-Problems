@@ -3,16 +3,8 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>   
-c. [](#)  <br>   
-d. [](#)  <br>   
-e. [](#)  <br>   
-f. [](#)  <br>   
-g. [](#)  <br>   
-h. [](#)  <br>   
-i. [](#)  <br>   
-j. [](#)  <br>   
-k. [](#)  <br>   
+b. [Personas](#Personas)  <br>   
+c. [Using Personas](#Using-Personas)  <br>      
 
 <br>
 
@@ -36,6 +28,10 @@ k. [](#)  <br>
 
 
 #### Other Cool Links
+
+[User Persona Template for Figma](https://www.figma.com/file/lPsdmnNGZdSMQrSjDT1Cdb/User-Persona-Template)  
+
+[15 Must See User Persona Templates](https://www.justinmind.com/blog/user-persona-templates/)  
 
 <br>
 

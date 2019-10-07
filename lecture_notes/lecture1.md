@@ -36,6 +36,9 @@ e. [Tracking and Prioritizing Issues](#Tracking-and-Prioritizing-Issues)  <br>
 
 [UX Check](http://www.uxcheck.co), a Chrome Extension that helps you identify usability issues through a heuristic evaluation.  
 
+[Strong Examples of Usability Heuristics](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)  
+
+[Usability Heuristics Explained](https://medium.com/@erangatl/10-usability-heuristics-explained-caa5903faba2)  
 <br>
 
 ## UX Debt
