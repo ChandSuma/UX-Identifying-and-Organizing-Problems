@@ -30,7 +30,7 @@ k. [](#)  <br>
 
 [Personas UX8 - Glenn Ference](https://youtu.be/pWf6uxr-6d4%20)  
 
-[Personas UXPT3 - Ann-Marie]()     
+[Personas UXPT3 - Ann-Marie](https://youtu.be/y8d-Hrs2-dk)     
 
 [Personas Assignment](https://docs.google.com/document/d/1n1tB72FLC9mBNPshQ_llzoGI5UyqWwyx_ZzElW8mcI4/edit?usp=sharing)  
 
