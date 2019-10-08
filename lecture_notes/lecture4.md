@@ -93,3 +93,40 @@ Putting this all together, we can see what a versatile tool user flows are in ou
 
 <br>
 <br>
+
+## Understanding the Context
+
+Like with most UX tools, we start creating our user flows by reviewing our research and context. From here, we can then iterate through different representations and create our user flow document.
+
+We’ll review the work we’ve done up to this point by asking four questions:
+
+> What solutions have we brainstormed?  
+> What is the user trying to achieve?  
+> What are the business objectives?  
+> What are the points of entry?  
+
+
+We start by reviewing and cataloging our current solutions because we want to design a user flow for each of them. 
+
+Doing so will allow us to translate the abstract solution into a tangible interface. 
+
+Then, for each solution, we’ll identify what the user is trying to achieve, our business objectives, and how the user would start using the solution. Once we’ve identified these key points, we can begin to connect the dots in the next step.
+
+<br>
+<br>
+
+## Write Out the Flow
+
+Before we plunge into “full design mode”, taking the time to write out our flows lets us rapidly develop and iterate them because it is much easier and faster to change text than a design. 
+
+To do this, we’ll open up Word or Google Docs and we’ll write out a flow for each solution as a bulleted list.
+
+
+In the beginning, we can focus on how our product will connect the user’s point of entry to their goal using our solution and meeting our business objectives.
+
+
+As we complete flows for different solutions, we should take time to see if we can add any flows that link different flows and make sure we’re not just designing for the “happy path.”
+
+<br>
+<br>
+
