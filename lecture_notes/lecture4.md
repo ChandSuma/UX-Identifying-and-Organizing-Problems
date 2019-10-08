@@ -36,6 +36,16 @@ j. [](#)  <br>
 
 #### Other Cool Links
 
+What to do first -- [User Flows or User Journey Maps?](https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8)  
+
+[A Beginner's Guide to User Flows](https://heap.io/blog/analysis/user-flows-guide)  
+
+[Overflow](https://overflow.io) - user flows done right.  
+
+[Flowkit](https://useflowkit.com): User Flow templates for Sketch and Figma.  
+
+[Squid](https://uxmisfit.com/squid/), the ultimate UI Flow Toolkit for $24-29.    
+
 <br>
 
 ## User Flows
