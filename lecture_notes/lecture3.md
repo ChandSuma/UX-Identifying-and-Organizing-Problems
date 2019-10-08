@@ -102,7 +102,13 @@ Now, there are so many types of touch points or channels that users can connect 
 
 A user journey map might look more like this, where we track each step of the user journey around a single user or persona, with a visualization of their emotional state throughout, corresponding to particular pieces of feedback or observations.
 
+![Journey Map 2](./img/JourneyMap2.png "Journey Map 2")
+
 ![Journey Map](./img/JourneyMap.png "Journey Map")
+
+<br>
+
+![Journey Map v Experience Map](./img/JourneyVExperience.png "Journey Map v Experience Map")
 
 
 <br>
@@ -231,4 +237,12 @@ Make sure everyone understands the implications of the customer journey map and 
 
 <br>
 
-In person project: Try to outline a user journey map of [Cinebox](https://docs.google.com/document/d/1WuOjbm_zqjWnt_pRGOlK1pAInt60H5I6Vb6SOMjAOnI/edit). 
+![Jobs to Be Done](./img/JobsToBeDone.png "Jobs to Be Done")
+
+![Mario](./img/Mario_Jobs_to_do.png "Mario")
+
+<br>
+
+In person project: Try to outline a user journey map of [Cinebox](https://docs.google.com/document/d/1WuOjbm_zqjWnt_pRGOlK1pAInt60H5I6Vb6SOMjAOnI/edit). Use [how to create a customer journey map](https://www.ngdata.com/how-to-create-a-customer-journey-map/) as a reference. Use this [Figma Journey Map template](https://www.figma.com/file/pYZulEMUfqhrpbFZitK5PP/Journey-Map-Template). 
+
+<br>
