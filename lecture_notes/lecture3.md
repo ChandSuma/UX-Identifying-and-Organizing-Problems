@@ -112,5 +112,74 @@ Since you’ll always include the insights section, you’ll also make sure to a
 
 ## Creating a Journey Map
 
+Now that we understand the various elements of a typical customer journey map, let’s cover the process for creating them.
 
+### 1. Understand your context
 
+As usual, we’ll need to gather up all of our research insights to serve as the foundation for our customer journey map. 
+
+In particular, it helps to understand your personas, products, and business objectives. 
+
+With this information, we’re looking to understand our customers, how/when/why they interact with our products, and what we’re doing as a business to facilitate those interactions.
+
+<br>
+
+### 2. Plan your mapping event
+
+Once you’ve gathered up all of your research, you can start planning your mapping event. Creating a customer journey map is a collaborative process that should uncover siloed information and lead to insights across the organization. 
+
+So, you need to make sure you invite other stakeholders to participate. There are two types of stakeholders who you should invite.
+
+Ones who understand the customer journey and influencers in your organization. Sometimes they’ll overlap, but in larger companies, they might not. 
+
+Influencers are typically members of senior management. They're often the farthest from customers, but their decisions carry the biggest impact on the customer experience. Having them attend the event helps them see how their decisions impact the customer experience. 
+
+In order to do that, you’ll need to have stakeholders who actually understand the full customer journey. Usually, customer support/service staff are excellent stakeholders who understand the customer’s problems very well. Other stakeholders include marketers, salespeople, developers, and other UX designers.
+
+Once you’ve identified the stakeholders, invite them to your customer mapping event. 
+
+Make sure you explain why you’re conducting this exercise and the value it will deliver for them. These events can last all day, but make sure you’ve budgeted at least 90 minutes. Anything past that is often too taxing for teams. 
+
+It might seem like not enough time to get all of the details, but remember you’re trying to leverage the team’s knowledge to uncover the basic facts and high-level customer journey. You can always follow-up with individuals for more detail later.
+
+<br>
+
+### 3. Collaborate with your team
+
+When you’ve gathered everyone in a room, you’re ready to start working on your customer journey map. At the beginning, make sure to review what you’re doing, why it is useful, and how it will benefit the company.
+
+When you’re ready, start by identifying the persona that you’ll be focusing on. Then, identify the scenario and the principal stages the persona passes through in order to complete it. These stages can vary dramatically, but will typically cover the following:
+
+> Discovery  
+> Research  
+> Purchase  
+> Delivery  
+> After Sales  
+
+<br>
+
+Once you’ve outlined your scenario, you can create a grid on a large piece of paper or a whiteboard. At the top, create a column for each of the stages. On the left side, create a row for the actions, mindsets, emotions, touchpoints, channels, insights, and ownership.
+
+With that set-up, go through the process of filling out the first column with everyone. Make sure you use post-it notes for all of your responses. This makes it easy to reorder items later.
+
+Once you’ve finished the first column, you can either continue as a team or break out into smaller groups and have them each work on a column together. Breaking into smaller groups helps keep everyone engaged and speeds up the process.
+
+When everything is filled out, make sure you review all of the details together and discuss any contentious points.
+
+<br>
+
+### 4. Refine your map
+
+Now that you have all of the big picture details, you can continue to add more details or you can codify your findings in a deliverable. 
+
+Customer journey maps come in all shapes and sizes, but make sure you present all of your findings on one page. Keeping everything on one page ensures it is easily digestible and more likely to be used and referenced.
+
+<br>
+
+### 5. Share your results
+
+Once you’ve refined your customer journey map, you’re ready to share it with the rest of your team! Sharing your results is the most important step because it ensures that all of the work you just did doesn’t go to waste. 
+
+Make sure everyone understands the implications of the customer journey map and any results that they’ll be responsible for because of it.
+
+<br>
