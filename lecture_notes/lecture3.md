@@ -36,7 +36,9 @@ j. [](#)  <br>
 
 #### Other Cool Links
 
-[Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) byt the Nielsen Norman Group.  
+[Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) byt the Nielsen Norman Group. 
+
+[User Journey's, the Beginner's Guide](https://theuxreview.co.uk/user-journeys-beginners-guide/)   
 
 [What is a User Journey Map?](https://www.optimizely.com/optimization-glossary/user-journey-map/)   
 
