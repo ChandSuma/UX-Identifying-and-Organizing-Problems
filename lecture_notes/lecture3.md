@@ -3,15 +3,10 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>     
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>  
-j. [](#)  <br>  
+b. [Journey Maps](#Journey-Maps)  <br>     
+c. [Journey Map Elements](#Journey-Map-Elements)  <br>  
+d. [Creating a Journey Map](#Creating-a-Journey-Map) <br>  
+e. [Jobs To Be Done](#Jobs-To-Be-Done)  <br>  
 
 <br>
 
@@ -236,6 +231,9 @@ Once you’ve refined your customer journey map, you’re ready to share it with
 Make sure everyone understands the implications of the customer journey map and any results that they’ll be responsible for because of it.
 
 <br>
+<br>
+
+## Jobs To Be Done
 
 ![Jobs to Be Done](./img/JobsToBeDone.png "Jobs to Be Done")
 
