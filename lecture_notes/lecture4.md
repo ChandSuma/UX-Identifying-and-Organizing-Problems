@@ -130,3 +130,27 @@ As we complete flows for different solutions, we should take time to see if we c
 <br>
 <br>
 
+## Design and Review the Flow
+
+Once we’re satisfied with our written flows, we can begin to graphically represent them in our design software of choice.
+
+To do so, we’ll typically represent each bullet as a card or another icon and then draw lines between them to represent how a user can progress through the flow.
+
+We can vary the design of the cards and lines to represent different user activities. For example, we could make the “happy path” green and the other paths red.
+
+<br>
+
+Once we’ve finished translating everything into a graphical design, we can take a second to review our work and see if we’re missing anything.
+
+When all of the connections have been made, it can be easier to spot gaps or flaws in your flows.
+
+<br>
+<br>
+
+## Repeat With New Paths
+
+Finally, as the project progress and you iterate through design solutions, be sure to continue updating your user flows so you have detailed documentation about how your users interact with your product.
+
+Maintaining proper documentation of your experience with user flows will make your job significantly easier in the future when you need to revisit or test an experience.
+
+<br>
