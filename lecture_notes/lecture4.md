@@ -59,3 +59,37 @@ It shows us places where we can use usability heuristics to improve the experien
 <br>
 <br>
 
+## When Do We Create User Flows
+
+Knowing when to use a user flow is just as important as knowing how to use one.
+
+User flows are conducted at various points throughout the product design cycle because they’re the perfect tool for communicating what needs to happen in order for a user to accomplish something. We typically use them in the Discovery, Definition, Ideation, and Prototyping phases.
+
+### Discovery Phase
+
+In the Discovery phase, we construct user flows during our competitive analysis to better understand how our competitors’ users interact with their products. 
+
+If we’re working on an existing product, we’ll create user flows for our own experience to map out the existing user interactions. These user flows serve as an invaluable form of documentation that broadens our understanding of the current state of affairs.
+
+### Definition Phase
+
+During the Definition phase, we’ll create user flows after we’ve synthesized our research into a user journey map. 
+
+At this point, our user flows can be a bit more generalized than they typically would be in order to translate our big picture user journey map into a more actionable representation of our product. 
+
+Ideally, we’re trying to articulate the high-level interactions a user needs to accomplish in order to derive value from the product.
+
+### Ideation Phase 
+
+These high-level user flows can then be taken over to the Ideation phase. As we brainstorm solutions, we can utilize user flows to map out the implementation details we need to consider in the solutions’ design. 
+
+By increasing the specificity and fidelity of our user maps, they become incredibly valuable to our design process because they give us a blueprint for our design by mapping out the interactions and interfaces we need to consider.
+
+### Prototyping Phase
+
+Finally, in the Prototyping phase, we’ll use our user flows as supporting documentation and continuously improve them as we test solutions. That said, we can still continue to create new user flows as new features and other improvements arise.
+
+Putting this all together, we can see what a versatile tool user flows are in our toolbox. While we’ve discussed how to use them in these parts of the product design cycle, they can be used anytime you need to communicate how a user interacts with your product.
+
+<br>
+<br>
