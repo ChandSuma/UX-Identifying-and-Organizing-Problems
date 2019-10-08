@@ -59,6 +59,58 @@ They combine storytelling and visualization to help teams conceptualize and addr
 Additionally, they help draw out siloed information because they’re created using a collaborative, multi-disciplinary approach. And since we’re focused on the customer’s journey, it refocuses the team on the customer’s needs and pain points.
 
 <br>
+<br>
+
+## Journey Map Elements
+
+Like most UX tools, there’s a fair amount of variation in how people design and organize their customer journey maps.
+
+First, we’ll want to make sure that our customer journey map lays out the experience for one “actor” or persona. 
+
+Keeping our maps focused on one persona prevents us from overcomplicating our designs. 
+
+If we tried to design for many personas, it would be hard to visually represent and digest all of their information. So, be sure to create a separate map for each persona in order to provide a strong, clear narrative.
+
+<br>
+
+### 1. Scenario
+
+The scenario refers to the specific experience you’re mapping. 
+
+Ideally, your scenario describes a sequence of events, like using an online shopping cart or flying to Spain. You should also make sure that your scenario has an end goal for the user and that it’s clearly articulated.
+
+<br>
+
+### 2. Actions, Mindsets, and Emotions
+
+A journey map wouldn’t be very useful without showing what the user is doing, thinking, and feeling during their journey. 
+
+These details should be found through qualitative research. But, it’s ok to guess if you don’t have any supporting research as long as you validate your guesses in follow-up research.
+
+<br>
+
+### 3. Touchpoints and Channels
+
+As NNGroup explains: 
+
+>> ”the map should align touchpoints (times when the [persona] actually interacts with the company) and channels (methods of communication or service delivery, such as the website or physical store) with user goals and actions. These elements deserve a special emphasis because they are often where brand inconsistencies and disconnected experiences are uncovered.”
+
+<br>
+
+### 4. Insights and Ownership
+
+Insights and ownership are paradoxically the most important and overlooked pieces of the customer journey map. 
+
+The whole point of creating a customer journey map is to discover where you could improve the customer’s experience with your company and product. 
+
+So, failing to include insights means that all of the other work you’ve done for your map was a waste of time. 
+
+Since you’ll always include the insights section, you’ll also make sure to assign ownership to your insights so your teammates are empowered to make the changes you need to implement them.
+
+<br>
+<br>
 
 ## Creating a Journey Map
+
+
 
