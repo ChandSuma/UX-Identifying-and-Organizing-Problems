@@ -36,6 +36,14 @@ j. [](#)  <br>
 
 #### Other Cool Links
 
+[Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) byt the Nielsen Norman Group.  
+
+[What is a User Journey Map?](https://www.optimizely.com/optimization-glossary/user-journey-map/)   
+
+[10 Interesting User Journey Map Examples](http://blog.uxeria.com/en/10-most-interesting-examples-of-customer-journey-maps/)  
+
+[9 Ways to Build Great User Journey Maps](https://www.mycustomer.com/experience/engagement/nine-sample-customer-journey-maps-and-what-we-can-learn-from-them), with examples.  
+
 <br>
 
 ## Journey Maps
