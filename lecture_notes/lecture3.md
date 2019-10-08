@@ -46,6 +46,12 @@ j. [](#)  <br>
 
 [9 Ways to Build Great User Journey Maps](https://www.mycustomer.com/experience/engagement/nine-sample-customer-journey-maps-and-what-we-can-learn-from-them), with examples.  
 
+[Smaply](https://www.smaply.com), visualize your customers' experience (paid).  
+
+<br>
+
+Experience Design at Habanero: [Part 1](https://www.youtube.com/watch?v=6hgq5eIAKWc), [Part 2](https://www.youtube.com/watch?v=tzTQH7nrf3g), and [Part 3](https://www.youtube.com/watch?v=9JCM4zc0Iyk).  
+
 <br>
 
 ## Journey Maps
@@ -67,6 +73,29 @@ According to the Nielsen Norman Group (NNGroup):
 They combine storytelling and visualization to help teams conceptualize and address customer needs. Their unique format and ability to surface missing details make them excellent tools for defining the high-level customer experience.
 
 Additionally, they help draw out siloed information because they’re created using a collaborative, multi-disciplinary approach. And since we’re focused on the customer’s journey, it refocuses the team on the customer’s needs and pain points.
+
+<br>
+
+### What are the benefits?
+
+User Journey Maps are another way to express the user's needs and perspectives to team members who might not understand the user as well, or engage with the user as often. It helps build empathy and a user first mindset. The whole team needs to be on board so that the more viewpoints that go into creating it can build a robust user perspective. 
+
+<br>
+
+### How does it differ from an Experience Map?
+
+An experience map looks at the entire possible user experience, including edge cases or the global view, rather than focusing on a user persona's particular journey through the app or service. Journey Maps really focus on a persona's perspective rather than every possible scenario that could occur.
+
+![Experience Map](./img/ExperienceMap.png "Experience Map")
+
+An experience map helps expose the different stages, touch points, and channels that users might go through. This is a great resource to create when you are new to a company or organization, to understand the big picture of the whole process or a sub-process (getting a mortgage from the bank). 
+
+They can also help us understand the journey that might bridge from online to offline, or vice versa.
+
+Channels are methods of communication or service, touch points are when users engage with those channels. 
+
+Now, there are so many types of touch points or channels that users can connect to a company with, but they aren't always interconnected (phone support might not be able to connect to the online chat support or the support history of a customer). Despite a company being one group, the channels can be disconnected, but customers usual expect a fully connected experience across all channels.
+
 
 <br>
 <br>
