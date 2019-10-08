@@ -48,6 +48,8 @@ j. [](#)  <br>
 
 [Smaply](https://www.smaply.com), visualize your customers' experience (paid).  
 
+[The ultimate guide to creating a customer experience map](https://www.ngdata.com/creating-a-customer-experience-map), with analysis, tools and templates.  
+
 <br>
 
 Experience Design at Habanero: [Part 1](https://www.youtube.com/watch?v=6hgq5eIAKWc), [Part 2](https://www.youtube.com/watch?v=tzTQH7nrf3g), and [Part 3](https://www.youtube.com/watch?v=9JCM4zc0Iyk).  
@@ -95,6 +97,12 @@ They can also help us understand the journey that might bridge from online to of
 Channels are methods of communication or service, touch points are when users engage with those channels. 
 
 Now, there are so many types of touch points or channels that users can connect to a company with, but they aren't always interconnected (phone support might not be able to connect to the online chat support or the support history of a customer). Despite a company being one group, the channels can be disconnected, but customers usual expect a fully connected experience across all channels.
+
+<br>
+
+A user journey map might look more like this, where we track each step of the user journey around a single user or persona, with a visualization of their emotional state throughout, corresponding to particular pieces of feedback or observations.
+
+![Journey Map](./img/JourneyMap.png "Journey Map")
 
 
 <br>
@@ -222,3 +230,5 @@ Once you’ve refined your customer journey map, you’re ready to share it with
 Make sure everyone understands the implications of the customer journey map and any results that they’ll be responsible for because of it.
 
 <br>
+
+In person project: Try to outline a user journey map of [Cinebox](https://docs.google.com/document/d/1WuOjbm_zqjWnt_pRGOlK1pAInt60H5I6Vb6SOMjAOnI/edit). 
