@@ -24,7 +24,7 @@ e. [Jobs To Be Done](#Jobs-To-Be-Done)  <br>
 
 [Journey Maps UX8 - Glenn Ference](https://youtu.be/yysYGkInnos)  
 
-[Journey Maps UXPT3 - Ann-Marie]()     
+[Journey Maps UXPT3 - Ann-Marie](https://youtu.be/tdHus_37Ig8)     
 
 [Journey Maps Assignment](https://drive.google.com/open?id=16uCEHmeSC8OO7UFIpNMMftMUojEyy2NCQTZ_linSrzQ)  
 
