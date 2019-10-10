@@ -185,6 +185,12 @@ While each box tells us about the action or what the user should be able to do, 
 
 You don't need to include "back" in the user flow -- we assume a user _can_ always go back, so we don't diagram that flow as well. *However*, the back feature is often overlooked by the engineering team if it's not explicitly covered in the design flow. There are instances where back may change the user flow too, so if it would affect the entire user flow, it's important to include.
 
-System decisions are often include within the path flow, but in a different shape or outline, to indicate that it's not a user action but a system decision. An example might be when a user is searching for available cars to rent. The system decision is to search the database with the user's  indicated preferences -- if a car is not available, that will lead to one screen and path, while if there are cars available, that would lead to a separate one. Indicating that the decision of which path the user will be lead down is a _system decision_ is important in the diagram.
+System decisions are often include within the path flow, but in a different shape or outline, to indicate that it's not a user action but a system decision. They always result in "yes" or "no". 
+
+An example might be when a user is searching for available cars to rent. The system decision is to search the database with the user's  indicated preferences -- if a car is not available, that will lead to one screen and path, while if there are cars available, that would lead to a separate one. Indicating that the decision of which path the user will be lead down is a _system decision_ is important in the diagram.
+
+Note that the above key includes Start, End, Screen, System Decision, and User Action. Start and End are just color coded screens. User actions should avoid any description of the UI (scroll, button, etc). No description of _what_ is on the screen is in the user flow, just the action taken to go from screen to screen.
+
+User flows should go from left to right horizontally, instead of any other direction (vertically).
 
 <br>
