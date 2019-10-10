@@ -67,6 +67,18 @@ The process of creating a user flow frequently uncovers all possible scenarios o
 It shows us places where we can use usability heuristics to improve the experience, e.g. helping rescue our users, keeping them out of trouble, or providing wayfinding tools to help them get through the flow with less friction.
 
 <br>
+
+### How does User Flow differ from a Journey Map?
+
+Journey Maps look through the lens of a specific persona, while User Flows are generic to the overall user base. User Flows consider user actions and how they cause system decisions (what the app is doing in the background in response).
+
+User Flows cover each possible path that a user could take or choose, while Journey Maps focus on one user's path based on the decisions that their persona. The Journey Map could also include touch points outside of the application (how the user ends up at the application), focusing on the _entire_ process of solving their problems, across channels.
+
+The User Flow might focus on a particular channel (a website) and all the paths that the user might take. User Flows try to imagine each possibility on a channel to ensure we don't miss designing a crucial step; while the Journey Map is focused on building empathy and trying to understand how to best problem solve _for_ that persona. User Flows help us spot edge cases and unique scenarios that still need to be handled by the system.
+
+These are both similar in a sense, but how and when we use them differ on scenario and what we're trying to communicate. 
+
+<br>
 <br>
 
 ## When Do We Create User Flows
@@ -162,5 +174,17 @@ When all of the connections have been made, it can be easier to spot gaps or fla
 Finally, as the project progress and you iterate through design solutions, be sure to continue updating your user flows so you have detailed documentation about how your users interact with your product.
 
 Maintaining proper documentation of your experience with user flows will make your job significantly easier in the future when you need to revisit or test an experience.
+
+<br>
+
+![User Flow Example](./img/UserFlow1.png "User Flow Example")
+
+Every User Flow needs to have a legend (or Key) to explain what different colors/shapes mean. 
+
+While each box tells us about the action or what the user should be able to do, it doesn't include UI information or details about the _how_. User Flows focus on the tasks to be accomplish, not the UI design.
+
+You don't need to include "back" in the user flow -- we assume a user _can_ always go back, so we don't diagram that flow as well. *However*, the back feature is often overlooked by the engineering team if it's not explicitly covered in the design flow. There are instances where back may change the user flow too, so if it would affect the entire user flow, it's important to include.
+
+System decisions are often include within the path flow, but in a different shape or outline, to indicate that it's not a user action but a system decision. An example might be when a user is searching for available cars to rent. The system decision is to search the database with the user's  indicated preferences -- if a car is not available, that will lead to one screen and path, while if there are cars available, that would lead to a separate one. Indicating that the decision of which path the user will be lead down is a _system decision_ is important in the diagram.
 
 <br>
