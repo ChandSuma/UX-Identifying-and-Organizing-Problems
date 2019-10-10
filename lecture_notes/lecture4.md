@@ -44,7 +44,9 @@ What to do first -- [User Flows or User Journey Maps?](https://medium.com/sketch
 
 [Flowkit](https://useflowkit.com): User Flow templates for Sketch and Figma.  
 
-[Squid](https://uxmisfit.com/squid/), the ultimate UI Flow Toolkit for $24-29.    
+[Squid](https://uxmisfit.com/squid/), the ultimate UI Flow Toolkit for $24-29.   
+
+[Guide to Understanding Flow Charts](https://xkcd.com/518/)  
 
 <br>
 
@@ -189,8 +191,10 @@ System decisions are often include within the path flow, but in a different shap
 
 An example might be when a user is searching for available cars to rent. The system decision is to search the database with the user's  indicated preferences -- if a car is not available, that will lead to one screen and path, while if there are cars available, that would lead to a separate one. Indicating that the decision of which path the user will be lead down is a _system decision_ is important in the diagram.
 
-Note that the above key includes Start, End, Screen, System Decision, and User Action. Start and End are just color coded screens. User actions should avoid any description of the UI (scroll, button, etc). No description of _what_ is on the screen is in the user flow, just the action taken to go from screen to screen.
+Note that the above key includes Start, End, Screen, System Decision, User Decision and User Action. Start and End are just color coded screens. User actions should avoid any description of the UI (scroll, button, etc). No description of _what_ is on the screen is in the user flow, just the action taken to go from screen to screen.
 
-User flows should go from left to right horizontally, instead of any other direction (vertically).
+User flows should go from left to right horizontally, instead of any other direction (vertically). Think of the screen as the output, the user action as the input. 
+
+Checkout this [Guide to Understanding Flow Charts](https://xkcd.com/518/).
 
 <br>
