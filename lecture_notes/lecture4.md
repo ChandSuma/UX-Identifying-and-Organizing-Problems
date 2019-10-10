@@ -3,15 +3,12 @@
 Table of Contents:  
 
 a. [Additional Resources](#Additional-Resources)  <br>  
-b. [](#)  <br>     
-c. [](#)  <br>  
-d. [](#)  <br>  
-e. [](#)  <br>  
-f. [](#)  <br>  
-g. [](#)  <br>  
-h. [](#)  <br>  
-i. [](#)  <br>  
-j. [](#)  <br>  
+b. [User Flows](#User-Flows)  <br>     
+c. [When Do We Create User Flows](#When-Do-We-Create-User-Flows)  <br>  
+d. [Understanding the Context](#Understanding-the-Context)  <br>  
+e. [Write Out the Flow](#Write-Out-the-Flow)  <br>  
+f. [Design and Review the Flow](#Design-and-Review-the-Flow)  <br>  
+g. [Repeat With New Paths](#Repeat-With-New-Paths)  <br>  
 
 <br>
 
@@ -47,6 +44,8 @@ What to do first -- [User Flows or User Journey Maps?](https://medium.com/sketch
 [Squid](https://uxmisfit.com/squid/), the ultimate UI Flow Toolkit for $24-29.   
 
 [Guide to Understanding Flow Charts](https://xkcd.com/518/)  
+
+[Example Movie Narrative Flow Charts](https://xkcd.com/657/)  
 
 <br>
 
